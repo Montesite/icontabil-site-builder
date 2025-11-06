@@ -7,8 +7,8 @@ const Contact = () => {
     {
       icon: <MapPin className="w-6 h-6 text-primary" />,
       title: "Endereço",
-      content: "Rua Quintino Bocaiuva, 27 - Cidade Nova",
-      content2: "Porto União - SC, CEP 89400-000"
+      content: "Rua Marechal Deodoro da Fonseca, 759",
+      content2: "São Basilio Magno - União da Vitória - PR, CEP 84600-614"
     },
     {
       icon: <Phone className="w-6 h-6 text-primary" />,
@@ -80,7 +80,7 @@ const Contact = () => {
             <Card className="overflow-hidden animate-scale-in shadow-lg">
               <CardContent className="p-0">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3584.8889!2d-51.0797!3d-26.2392!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e6508da6e0b8f9%3A0x7e8f8c8f8f8f8f8f!2sRua%20Quintino%20Bocaiuva%2C%2027%20-%20Cidade%20Nova%2C%20Porto%20Uni%C3%A3o%20-%20SC%2C%2089400-000!5e0!3m2!1spt-BR!2sbr!4v1234567890!5m2!1spt-BR!2sbr"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3582.7!2d-51.0857!3d-26.2284!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94e650a5e0b7c5e5%3A0x5e5f5d5e5f5d5e5f!2sRua%20Marechal%20Deodoro%20da%20Fonseca%2C%20759%20-%20S%C3%A3o%20Basilio%20Magno%2C%20Uni%C3%A3o%20da%20Vit%C3%B3ria%20-%20PR%2C%2084600-614!5e0!3m2!1spt-BR!2sbr!4v1234567890!5m2!1spt-BR!2sbr"
                   width="100%"
                   height="400"
                   style={{ border: 0 }}

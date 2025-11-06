@@ -65,7 +65,7 @@ const Footer = () => {
               <li>
                 <div className="flex items-start gap-2 text-sm text-primary-foreground/80">
                   <MapPin size={16} className="mt-0.5 flex-shrink-0" />
-                  <span>Rua Quintino Bocaiuva, 27<br />Porto União - SC</span>
+                  <span>Rua Marechal Deodoro da Fonseca, 759<br />São Basilio Magno - União da Vitória - PR</span>
                 </div>
               </li>
             </ul>
