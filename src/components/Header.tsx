@@ -51,7 +51,7 @@ const Header = () => {
             className="flex items-center space-x-3 transition-transform hover:scale-105"
             aria-label="Ir para o início"
           >
-            <img src={logo} alt="ICONTABIL Logo" className="h-12 w-auto" />
+            <img src={logo} alt="ICONTABIL Logo" className="h-16 w-auto" />
           </button>
 
           {/* Desktop Menu */}
